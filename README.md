@@ -20,3 +20,4 @@ Please read the following carefully and feel free to ask us questions in the iss
    * [Example](https://github.com/react-native-web-community/react-native-web-webview/commit/78e3cdf600eaba19c16f1f9ee922d43b6bb86809)
 4. Make sure to treat the target module as an interface, and try to implement every props that makes sense for the web
 5. Sometimes, you have to add web-specific props, try to avoid that at the maximum, and document these props carefully
+6. (If mocking a RN module) Raise an issue on the original module repository to ask if the web version could be directly integrated into the original module.
